@@ -6,7 +6,7 @@ ASCII particle birthday card, personalized via URL.
 
 ```
 https://yourname.github.io/hbd/?name=DANNY
-https://yourname.github.io/hbd/?name=이름
+https://jiwook00.github.io/hbd/?name=DANNY
 ```
 
 Click to celebrate. Click again to reset
